@@ -1,13 +1,13 @@
-#Algorithmie Programmation
+# Algorithmie Programmation
 
-##Algorhitmie :
+## Algorhitmie :
 
 >>Processus de résolution de problème
 Série d'instruction, suivies étapes par étapes pour faire quelques chose d'utile, ou résoudre un problème.
 Différentes manières de résoudre un problème, puis faire en sorteque l'ordinateur le fasse pour moi.
 Langage naturel qui sera traduit en langage de programmation (traduction d'algorithmes en suite d'instructions compréhensibles par l'ordinateur. Machine ne sachant gérer que des 0 et des 1 = **système binaire**, avant cartes perforées. Ordinateur ne comprend pas la,ngage naturel, et difficulté de coder en 0 et 1 -> langage de programmation).
 
-##Programmation, programme :
+## Programmation, programme :
 
 Constitués de plusieurs algorithmes et interface utilisateur.
 
@@ -94,21 +94,21 @@ En attribuant; des types de données à une varibale, le programme est capavble 
 
 >>**Déclarer (existe)-> Nom Initialiser : Type, valeur.
 
-###Opérations courantes 
+### Opérations courantes 
 
-####Variables type nombre :
+#### Variables type nombre :
 
 **Incrémentation**= valeur variable est incrémentée signifie valeur variable augmente. Par défaut, est égal à 1.
 
 >>**x=x+1 -> signifie affecter 1 différent = mathématiques ( égal à).**
 
-####Variables type texte:
+#### Variables type texte:
 
 **String**= Chaîne de caractère, données textuelles.
 
 **Concaténation**= Opération qui consiste à mettre bout à bout des chaînes de caractères.
 
-####Boucles:
+#### Boucles:
 
 Répèter les instructions.
 Instructions se lisent d ehaut en bas, mais modification possible et mise à jour ordre exécution instruction.
@@ -136,7 +136,7 @@ Boucle éxécutée tant que la condition est fausse.
 Boucle dans boucle (ex: boucle imbriquée de Pythagore).
 
 
-####Test conditionnel
+#### Test conditionnel
 
 Instruction qui pose une question au programme et qui exécute une action en fonction de la réponse donnée.
 
