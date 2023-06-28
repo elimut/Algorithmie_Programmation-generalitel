@@ -1,6 +1,6 @@
 # Algorithmie Programmation
 
-## Algorhitmie
+## Algorithmie
 
 >Processus de résolution de problème
 Série d'instruction, suivies étapes par étapes pour faire quelques chose d'utile, ou résoudre un problème.
